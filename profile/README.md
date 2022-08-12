@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :vulcan_salute:
 <sup>If you're a member of this organisation, make sure to change to "View as: Member" on the right side of the page</sup>
 
 <p align="center">

@@ -1,15 +1,8 @@
 ## Hi there 👋
 <sup>If you're a member of this organisation, make sure to change to "View as: Member" on the right side of the page</sup>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110088916/184319589-b7d0531c-660c-4a8d-b7b4-4a92d1d16029.png" alt="Logo of Spine - Dark Background" width="300" height="300"/>
+</p>
+
 We're Spine and we are [Making tech work against exploitation.](https://spine.ngo/)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
